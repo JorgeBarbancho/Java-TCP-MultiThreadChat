@@ -1,2 +1,2 @@
 # Java-TCP-MultiThreadChat
-A multi-thread TCP-based chat exercice
+A multi-thread TCP-based chat exercise
